@@ -9,5 +9,7 @@
 - SQL (PostgreSQL, Redash) (вложенные запросы, оконные функции)
 - Построение дашбордов в Tableau
 
+Ссылка на резюме - https://novosibirsk.hh.ru/resume/91a0f0c9ff0c2560ba0039ed1f776e30756b41
+
 ### Напиши мне
 [![Telegram](https://img.shields.io/badge/-Telegram-69b5cc?style=for-the-badge&logo=Telegram)](https://t.me/HelenaKosenko2)
